@@ -1,0 +1,72 @@
+body {
+  min-width: 1000px;
+}
+header {
+  background-color: darkred;
+  margin-top:10px;
+  margin-left:10px;
+  padding: 5px 15px 5px 5px;
+  text-align: right;
+}
+#login{
+  color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 5px;
+    }
+h1{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.link{
+  color:white;
+  margin:5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+nav{
+  background-color: rgb(65, 72, 79);
+  margin-left: 10;
+  text-align: right;
+  padding:15px;
+}
+h2{
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+img.featured{
+  margin:30px 40px 10px 40px
+}
+
+article.featured{
+  margin:10px 30px 10px 60px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+.box{
+  float: right;
+  width: 25%;
+  padding: 10px;
+  margin: 10px 20px 10px 30px
+}
+footer{
+  color:white;
+  background-color: rgb(65, 72, 79);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  margin-left: 10;
+  text-align: left;
+  padding: 15px;
+}
